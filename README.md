@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Austin</h1>
-<h3 align="center">Estudiante de Licenciatura en Informatica y futuro programador de frontend y backend</h3>
+<h3 align="center">Estudiante de Licenciatura en Informatica y futuro programador Fullstack</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React, Vue, JS y los frameworks necesarios para un mejor desarrollo de front.**
 
